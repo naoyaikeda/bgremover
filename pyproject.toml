@@ -10,3 +10,5 @@ dependencies = [
     "rembg>=2.0.68",
     "withoutbg>=1.0.2",
 ]
+[project.scripts]
+bgremover = "bgremover:main"
